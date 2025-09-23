@@ -1,0 +1,14 @@
+[project]
+name = "trans-tts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dashscope>=1.23.2",
+    "ipykernel>=6.29.5",
+    "openai>=1.78.1",
+    "requests>=2.32.3",
+    "tomlkit>=0.13.2",
+    "websocket>=0.2.1",
+]
